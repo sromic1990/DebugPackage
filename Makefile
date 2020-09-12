@@ -1,1 +1,2 @@
-git subtree push --prefix Assets/Sourav/DebugRelated origin upm
+deploy:
+		git subtree push --prefix Assets/Sourav/DebugRelated origin upm

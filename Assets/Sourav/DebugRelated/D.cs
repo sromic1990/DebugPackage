@@ -2,7 +2,7 @@
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Sourav.Engine.Core.DebugRelated
+namespace Sourav.DebugRelated
 {
     public class D
     {
