@@ -1,6 +1,6 @@
 {
     "name": "com.sourav.debug",
-    "displayName": "Sourav/DebugPackage",
+    "displayName": "Sourav Debug Package",
     "version": "1.0.4",
     "unity": "2018.3",
     "description": "A wrapper over Debug Log that omits all logs from build, and has editor scripting to add/remove build log functionality",
