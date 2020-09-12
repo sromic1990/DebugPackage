@@ -23,3 +23,9 @@ All notable changes to this project will be documented in this file.
 - Keywords added to manifest.
 - Author email id added to manifest.
 - Changelog Added.
+
+## [1.0.3] - 2020-10-13
+
+### Added
+
+- Missing meta file for Changelog MD.
