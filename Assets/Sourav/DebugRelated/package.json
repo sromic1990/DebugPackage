@@ -1,8 +1,17 @@
 {
     "name": "com.sourav.debug",
     "displayName": "Sourav Debug Package",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "unity": "2018.3",
     "description": "A wrapper over Debug Log that omits all logs from build, and has editor scripting to add/remove build log functionality",
-    "author": "Sourav Chatterjee"
+    "author": {
+        "name": "Sourav Chatterjee",
+        "email": "sromic@gmail.com"
+    },
+    "keywords": [
+        "Debug",
+        "Unity",
+        "Sourav",
+        "LOG"
+      ]
 }
