@@ -35,3 +35,9 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Changed the folder structure for the package
+
+## [1.0.5] - 2020-10-13
+
+### Changed
+
+- Changed the folder structure name
