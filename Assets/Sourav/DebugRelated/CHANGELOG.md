@@ -29,3 +29,9 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Missing meta file for Changelog MD.
+
+## [1.0.4] - 2020-10-13
+
+### Changed
+
+- Changed the folder structure for the package
