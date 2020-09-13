@@ -41,3 +41,9 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Changed the folder structure name
+
+## [1.0.6] - 2020-10-13
+
+### Added
+
+- Added in-game debugger. Draw C or O to activate it.
