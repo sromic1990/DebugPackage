@@ -12,7 +12,7 @@ namespace Sourav.DebugRelated
             const int ReporterExecOrder = -12000;
             GameObject reporterObj = new GameObject();
             reporterObj.name = "Reporter";
-            global::Sourav.Tools.Reporter.Reporter reporter = reporterObj.AddComponent<global::Sourav.Tools.Reporter.Reporter>();
+            global::Sourav.DebugRelated.Reporter reporter = reporterObj.AddComponent<global::Sourav.DebugRelated.Reporter>();
             reporterObj.AddComponent<ReporterMessageReceiver>();
             //reporterObj.AddComponent<TestReporter>();
 
