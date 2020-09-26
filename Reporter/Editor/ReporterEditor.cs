@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Sourav.DebugRelated
 {
-    public class ReporterEditor : UnityEditor.Editor
+    public class ReporterEditor : Editor
     {
         [MenuItem("ProjectUtility/Tools/Reporter/Create")]
         public static void CreateReporter()
